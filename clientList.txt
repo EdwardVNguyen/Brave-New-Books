@@ -1,0 +1,15 @@
+John_Smith
+Texas
+50
+Jake_Lee
+Wales
+74
+Martin_Luther
+Jamaica
+45
+Carla_Williams
+Wall_Street
+1015
+Warren_Buffet
+Wall_Street
+50035
